@@ -1,16 +1,17 @@
+
 # iptv
 #EXTM3U
 #EXTINF: -1, WAPA DEPORTES TV 3
 https://live.field59.com/wapa/wapa2/playlist.m3u8
 #EXTINF: -1, CARTOONNETWORT de TV 1
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="ACSNetwork.pr" tvg-logo="https://i.imgur.com/7aIab2r.png" group-title="Entertainment",ACS Network
+#EXTINF:-1 tvg-id="ACSNetwork.pr" tvg-logo="[https://i.imgur.com/7aIab2r.png](http://imgfz.com/i/KwFcIpb.png)" group-title="Entertainment",ACS Network
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",ADN 40
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="[https://i.imgur.com/Og17U9N.png](http://imgfz.com/i/KwFcIpb.png)" group-title="News",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="ADOCCOTV.do" tvg-logo="https://i.imgur.com/kuv6S3j.png" group-title="Business;Legislative;News",ADOCCO TV
+#EXTINF:-1 tvg-id="ADOCCOTV.do" tvg-logo="[https://i.imgur.com/kuv6S3j.png](http://imgfz.com/i/KwFcIpb.png)" group-title="Business;Legislative;News",ADOCCO TV
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
-#EXTINF:-1 tvg-id="AIONTV.do" tvg-logo="https://i.imgur.com/DBvm7YS.png" group-title="General",AION TV
+#EXTINF:-1 tvg-id="AIONTV.do" tvg-logo="[https://i.imgur.com/DBvm7YS.png](http://imgfz.com/i/KwFcIpb.png)" group-title="General",AION TV
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
 #EXTINF:-1 tvg-id="Ame47.do" tvg-logo="https://i.imgur.com/MUEbjeP.png" group-title="",Ame 47
 https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
