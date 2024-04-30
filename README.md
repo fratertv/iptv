@@ -1,7 +1,7 @@
 
 # iptv
 #EXTM3U
-#EXTINF:-1 tvg-id="WAPA DEPORTE HD" tvg-logo="http://imgfz.com/i/wSxjbVX.png" group-title="IPTV RD",WAPA DEPORTE
+#EXTINF:-1 tvg-id="WAPA DEPORTE HD" tvg-logo="http://imgfz.com/i/wSxjbVX.png" group-title="TELEVISION DIGITAL 829-7816971",WAPA DEPORTE
 https://live.field59.com/wapa/wapa2/playlist.m3u8
 #EXTINF: -1, CARTOONNETWORT de TV 1
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
