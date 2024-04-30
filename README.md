@@ -1,15 +1,14 @@
 
 # iptv
 #EXTM3U
-#EXTINF: -1, WAPA DEPORTES TV 3
+#EXTINF:-1 tvg-id="WAPA DEPORTE HD" tvg-logo="http://imgfz.com/i/wSxjbVX.png" group-title="IPTV RD",WAPA DEPORTE
 https://live.field59.com/wapa/wapa2/playlist.m3u8
 #EXTINF: -1, CARTOONNETWORT de TV 1
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="ACSNetwork.pr" tvg-logo="http://imgfz.com/i/KwFcIpb.png
-"Entertainment](http://imgfz.com/i/KwFcIpb.png
+#EXTINF:-1 tvg-id="ACSNetwork.pr" tvg-logo="http://imgfz.com/i/wSxjbVX.png"Entertainment](http://imgfz.com/i/KwFcIpb.png
 )",ACS Network
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="http://imgfz.com/i/KwFcIpb.png"group-title="News",ADN 40
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="http://imgfz.com/i/wSxjbVX.png" group-title="News",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="ADOCCOTV.do" tvg-logo="http://imgfz.com/i/KwFcIpb.png
 " group-title="Business;Legislative;News",ADOCCO TV
@@ -101,11 +100,11 @@ https://ythls.onrender.com/channel/UCcEY2-g-EEefxyYa1gtrk4g.m3u8
 https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8
 #EXTINF:-1 tvg-id="HipodromodelasAmericas.mx" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="",Hipodromo de las Americas
 http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8
-#EXTINF:-1 tvg-id="JazminTV.do" tvg-logo="https://i.imgur.com/pbrzEgA.png" group-title="Religious",Jazmin TV
+#EXTINF:-1 tvg-id="JazminTV.do" tvg-logo="http://imgfz.com/i/wSxjbVX.png" group-title="Religious",Jazmin TV
 https://tvdatta.com:3957/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="LaCaletaTV.do" tvg-logo="https://i.imgur.com/EfMtOja.png" group-title="",La Caleta TV
+#EXTINF:-1 tvg-id="LaCaletaTV.do" tvg-logo="http://imgfz.com/i/wSxjbVX.png" group-title="",La Caleta TV
 https://rdn.essastream.com:3168/live/lacaletatvlive.m3u8
-#EXTINF:-1 tvg-id="LunaTVCanal53.do" tvg-logo="https://i.imgur.com/EvX5aqI.png" group-title="",Luna TV Canal 53
+#EXTINF:-1 tvg-id="LunaTVCanal53.do" tvg-logo="http://imgfz.com/i/wSxjbVX.png" group-title="",Luna TV Canal 53
 https://streaming.ath.cx:1936/lunatv/lunatv/playlist.m3u8
 #EXTINF:-1 tvg-id="MakaoTV.do" tvg-logo="https://i.imgur.com/asD5y7i.png" group-title="",Makao TV
 https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
