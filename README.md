@@ -5,25 +5,35 @@
 https://live.field59.com/wapa/wapa2/playlist.m3u8
 #EXTINF: -1, CARTOONNETWORT de TV 1
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="ACSNetwork.pr" tvg-logo="[[img]http://imgfz.com/i/KwFcIpb.png[/img]"Entertainment",ACS Network
+#EXTINF:-1 tvg-id="ACSNetwork.pr" tvg-logo="http://imgfz.com/i/KwFcIpb.png
+"Entertainment](http://imgfz.com/i/KwFcIpb.png
+)",ACS Network
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="[img]http://imgfz.com/i/KwFcIpb.png[/img]" group-title="News",ADN 40
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="http://imgfz.com/i/KwFcIpb.png"group-title="News",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="ADOCCOTV.do" tvg-logo="[img]http://imgfz.com/i/KwFcIpb.png[/img]" group-title="Business;Legislative;News",ADOCCO TV
+#EXTINF:-1 tvg-id="ADOCCOTV.do" tvg-logo="http://imgfz.com/i/KwFcIpb.png
+" group-title="Business;Legislative;News",ADOCCO TV
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
-#EXTINF:-1 tvg-id="AIONTV.do" tvg-logo="[img]http://imgfz.com/i/KwFcIpb.png[/img]" group-title="General",AION TV
+#EXTINF:-1 tvg-id="AIONTV.do" tvg-logo="http://imgfz.com/i/KwFcIpb.png
+" group-title="General",AION TV
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
-#EXTINF:-1 tvg-id="Ame47.do" tvg-logo="[img]http://imgfz.com/i/KwFcIpb.png[/img]" group-title="",Ame 47
+#EXTINF:-1 tvg-id="Ame47.do" tvg-logo="
+http://imgfz.com/i/KwFcIpb.png" group-title="",Ame 47
 https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
-#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="Entertainment;General",America TeVe
+#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="http://imgfz.com/i/KwFcIpb.png
+" group-title="Entertainment;General",America TeVe
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
-#EXTINF:-1 tvg-id="Antena21.do" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="News",Antena 21
+#EXTINF:-1 tvg-id="Antena21.do" tvg-logo="http://imgfz.com/i/KwFcIpb.png
+" group-title="News",Antena 21
 https://d1841z6ti5nz2v.cloudfront.net/Canal21DO/f260159f04ed124e08b9ee0364dd4ca7.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Antena7.do" tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="",Antena 7
+#EXTINF:-1 tvg-id="Antena7.do" tvg-logo="http://imgfz.com/i/KwFcIpb.png
+" group-title="",Antena 7
 https://d1841z6ti5nz2v.cloudfront.net/Antena7DO/34cdaa501a0217ea217d8f4f083c1728.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="AntenaTV.mx" tvg-logo="https://i.imgur.com/1sAgSME.png" group-title="General",Antena TV
+#EXTINF:-1 tvg-id="AntenaTV.mx" tvg-logo="http://imgfz.com/i/KwFcIpb.png
+" group-title="General",Antena TV
 https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
-#EXTINF:-1 tvg-id="ATNTelevision.co" tvg-logo="https://i.imgur.com/79sX78u.png" group-title="",ATN Television
+#EXTINF:-1 tvg-id="ATNTelevision.co" tvg-logo="http://imgfz.com/i/KwFcIpb.png
+" group-title="",ATN Television
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
