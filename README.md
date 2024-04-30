@@ -1,5 +1,7 @@
 
 # iptv
+#EXTINF:-1 tvg-id="WAPA DEPORTE HD" tvg-logo="http://imgfz.com/i/wSxjbVX.png" group-tvg-logo="http://imgfz.com/i/wSxjbVX.png",WAPA DEPORTE
+https://live.field59.com/wapa/wapa2/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="WAPA DEPORTE HD" tvg-logo="http://imgfz.com/i/wSxjbVX.png" group-title="TELEVISION DIGITAL 829-7816971",WAPA DEPORTE
 https://live.field59.com/wapa/wapa2/playlist.m3u8
