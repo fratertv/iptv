@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="DEL PUEBLO MEDIA" tvg-name="DEL PUEBLO MEDIA" tvg-logo="", delpueblo media
+http://vdopanel.jlahozconsulting.com/p/3869/hybrid/play.m3u8
 
 
 #EXTINF:-1 tvg-id="CCV DIGITAL" tvg-logo="https://www.ccvdigital.com/assets/og.jpg" group-title="NISIBONNET",CCV DIGITAL
